@@ -31,8 +31,8 @@
 
     ],
     "require": {
-        "php": "~5.5|~7.0",
-        "webmozart/assert": "1.0.*"
+        "php": "~5.5|~7.2",
+        "webmozart/assert": "1.*"
     },
     "autoload": {
         "psr-4": {
